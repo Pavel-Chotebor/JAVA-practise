@@ -1,17 +1,16 @@
 # JAVA-practise
 1. Phase of Green Fox Academy boot camp
+    -   basics
 
-    -basics
+    -   datastructures
 
-    -datastructures
+    -   file IO
 
-    -file IO
+    -   loops, conditions
 
-    -loops, conditions
+    -   classes
 
-    -classes
+    -   inheritance
 
-    -inheritance
-
-    -interface, abstract classes
+    -   interface, abstract classes
 
