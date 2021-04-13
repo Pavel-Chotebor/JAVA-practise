@@ -1,0 +1,36 @@
+
+p{
+    font-size: 24px;
+    color: darkred;
+}
+
+A{
+    text-decoration: underline;
+    color: blue;
+}
+
+h1{
+    width: 100%;
+    background-color: grey;
+
+}
+
+.CONTACT-METHODS{
+color: lawngreen;
+background-color: lightcyan;
+}
+
+
+#HEADER{
+    color: lightsalmon;
+    background-color: magenta;
+}
+
+span{
+color: magenta;
+}
+
+span{
+    color: navy;
+}
+
